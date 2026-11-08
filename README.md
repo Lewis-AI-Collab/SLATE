@@ -95,7 +95,7 @@ All previous discovery data has been purged due to synthetic data contamination.
 ### Installation
 
 ```bash
-git clone https://github.com/LewisAGI/SLATE.git
+git clone https://github.com/Lewis-AI-Collab/SLATE.git
 cd SLATE
 pip install -r requirements.txt
 # tests:
